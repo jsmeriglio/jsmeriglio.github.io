@@ -1,0 +1,28 @@
+body{
+  background-color:#f8c0d9;
+  font-family:'Roboto Mono', monospace;
+}
+
+p{
+  font-size:14px;
+}
+
+.intro-paragraph{
+  font-size:16px;
+}
+
+h1{
+  text-align:center;
+  color:#ffffff;
+  font-family:'Lora', serif;
+
+}
+
+img{
+  margin:30px 50px;
+}
+
+a{
+  color:#e0687b;
+  font-weight:bold;
+}
